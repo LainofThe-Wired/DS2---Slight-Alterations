@@ -7,3 +7,5 @@ additionally all regular reinforcements have had their material cost doubled (pr
 and level up soul costs increased by a multiplier of 2.15x
 
 i also changed forbidden sun cast amounts so you get 3 casts earlier (4 casts at the maximum of like 94 attunement)
+
+use UXM to unpack and patch the game idk how modengine works
